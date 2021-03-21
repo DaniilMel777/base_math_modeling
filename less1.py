@@ -1,1 +1,2 @@
-print('skybidybidy')
+print('skybidyuiyiuybidy')
+print('i smart')
